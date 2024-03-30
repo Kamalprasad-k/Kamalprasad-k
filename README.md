@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat application**
 
-- 🌱 I’m currently learning **Full-stack mobile development,AI (Artificial Intelligence),AI prompting**
+- 🌱 I’m currently learning **Full-stack mobile development, AI prompting**
 
 - 💬 Ask me about **Flutter**
 
